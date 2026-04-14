@@ -78,9 +78,9 @@ This program implements the **Digital Differential Analyzer (DDA) algorithm** to
 
 **Output**
 
-<p align="center">
+<p>
   <img src="07%20Output-1.png" width="44%" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="07%20Output-2.png" width="44%" />
 </p>
 
@@ -93,7 +93,11 @@ This program implements **Bresenham’s Line Drawing Algorithm**, an efficient i
 
 **Output**
 
-![Output - Q8](08%20Output.png)
+<p>
+  <img src="08%20Output-1.png" width="44%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="08%20Output-2.png" width="44%" />
+</p>
 
 ---
 
