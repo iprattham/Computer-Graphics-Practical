@@ -78,7 +78,11 @@ This program implements the **Digital Differential Analyzer (DDA) algorithm** to
 
 **Output**
 
-![Output - Q7](07%20Output.png)
+<p align="center">
+  <img src="07%20Output-1.png" width="44%" />
+  &nbsp;&nbsp;
+  <img src="07%20Output-2.png" width="44%" />
+</p>
 
 ---
 
