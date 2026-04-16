@@ -234,7 +234,11 @@ This program animates a **moving car across the screen**, demonstrating frame-by
 
 **Output**
 
-![Output - Q19](19%20Output.png)
+<p>
+  <img src="19%20Output-1.png" width="44%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="19%20Output-2.png" width="44%" />
+</p>
 
 ---
 
@@ -245,7 +249,11 @@ This program creates an animation of a **ball bouncing up and down**, demonstrat
 
 **Output**
 
-![Output - Q20](20%20Output.png)
+<p>
+  <img src="20%20Output-1.png" width="44%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="20%20Output-2.png" width="44%" />
+</p>
 
 ---
 
@@ -256,7 +264,11 @@ This program dynamically **changes the radius of a circle**, creating a visual e
 
 **Output**
 
-![Output - Q21](21%20Output.png)
+<p>
+  <img src="21%20Output-1.png" width="44%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="21%20Output-2.png" width="44%" />
+</p>
 
 ---
 
