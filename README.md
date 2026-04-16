@@ -119,7 +119,11 @@ This program demonstrates the **Cohen-Sutherland Line Clipping Algorithm**, whic
 
 **Output**
 
-![Output - Q10](10%20Output.png)
+<p>
+  <img src="10%20Output-1.png" width="44%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="10%20Output-2.png" width="44%" />
+</p>
 
 ---
 
@@ -163,7 +167,11 @@ This program reflects a line across a specified axis, demonstrating the **reflec
 
 **Output**
 
-![Output - Q14](14%20Output.png)
+<p>
+  <img src="14%20Output-1.png" width="44%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="14%20Output-2.png" width="44%" />
+</p>
 
 ---
 
@@ -174,7 +182,11 @@ This program applies a **shearing transformation** to a line, shifting it in a s
 
 **Output**
 
-![Output - Q15](15%20Output.png)
+<p>
+  <img src="15%20Output-1.png" width="44%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="15%20Output-2.png" width="44%" />
+</p>
 
 ---
 
@@ -185,7 +197,11 @@ This program reflects a triangle across an axis, demonstrating geometric transfo
 
 **Output**
 
-![Output - Q16](16%20Output.png)
+<p>
+  <img src="16%20Output-1.png" width="44%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="16%20Output-2.png" width="44%" />
+</p>
 
 ---
 
