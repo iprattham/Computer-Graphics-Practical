@@ -349,10 +349,21 @@ This program displays a **working analog clock with hour, minute, and second han
 
 ---
 
+### Q29 - Write a program to implement 2D Composite Transformations on a graphical object.
+
+**Description:**  
+This program demonstrates 2D composite transformations by applying multiple operations such as translation, rotation, scaling, reflection, and shearing on a graphical object (triangle). Each transformation is visualized separately with different colors, allowing clear understanding of how geometric transformations affect object position, orientation, and size.
+
+**Output**
+
+![Output - Q29](29%20Output.png)
+
+---
+
 ### Q30 - Write a program to show traffic signal with road.
 
 **Description:**  
-This program illustrates a **traffic signal system with a road**, demonstrating graphical objects and simple animation for signal changes.
+This program illustrates a traffic signal system with a road, demonstrating graphical objects and simple animation for signal changes. It visually simulates real-world traffic control by cycling through red, yellow, and green lights with appropriate timing.
 
 **Output**
 
