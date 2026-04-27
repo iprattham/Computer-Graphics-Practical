@@ -349,14 +349,14 @@ This program displays a **working analog clock with hour, minute, and second han
 
 ---
 
-### Q29 - Write a program to show traffic signal with road.
+### Q30 - Write a program to show traffic signal with road.
 
 **Description:**  
 This program illustrates a **traffic signal system with a road**, demonstrating graphical objects and simple animation for signal changes.
 
 **Output**
 
-![Output - Q29](29%20Output.png)
+![Output - Q30](30%20Output.png)
 
 ---
 
